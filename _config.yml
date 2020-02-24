@@ -1,0 +1,8 @@
+title: paul-reiners.github.io
+description: Paul Reiners' GitHub Projects
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
