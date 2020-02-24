@@ -4,6 +4,8 @@ I have a lot of projects on GitHub (and a few on SourceForge), but these are the
 
 - **C**
   - [**quadrillionth-decimal-place**](http://paul-reiners.github.io/quadrillionth-decimal-place/): Implementation of a Method of Bailey, Borwein, and Plouffe.
+- **Java**
+  - [**Dynamic programming and sequence alignment**](https://developer.ibm.com/technologies/java/articles/j-seqalign/): Computer science aids molecular biology.
 - **ChucK and Processing**
   - [**automatous-monk**](https://github.com/paul-reiners/automatous-monk): Algorithmic music composition.
 - **R**
