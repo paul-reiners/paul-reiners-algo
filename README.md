@@ -1,4 +1,4 @@
 paul-reiners.github.io
 ======================
 
-Paul Reiners' GitHub Projects
+Paul Reiners' Algorithmic Projects
