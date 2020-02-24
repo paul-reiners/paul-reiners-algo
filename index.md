@@ -1,4 +1,6 @@
-### Paul Reiners' GitHub Projects
+### Paul Reiners' Algorithmic Projects
+
+I have a lot of projects on GitHub (and a few on SourceForge), but these are the ones I'm most proud of.
 
 - **C**
   - [**quadrillionth-decimal-place**](http://paul-reiners.github.io/quadrillionth-decimal-place/): Implementation of a Method of Bailey, Borwein, and Plouffe.
